@@ -1,5 +1,11 @@
 # Getting Started with Create React App
 
+### Plugin In Project
+    - Axios
+    - Ant Desin
+    - Redux
+    - State Menagement
+
 
 ### Before Running Project
 ### `npm install`
