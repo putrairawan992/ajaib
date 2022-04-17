@@ -5,7 +5,7 @@ const getToken = () => {
 }
 
 export const serviceWithToken = (token = getToken()) => axios.create({
-  baseURL:  process.env.REACT_APP_API_MAIN_SERVICE,
+  baseURL:  "https://randomuser.me/api",
   timeout: 60 * 4 * 1000,
   headers: {
     Authorization: "Bearer " + token,
@@ -14,7 +14,7 @@ export const serviceWithToken = (token = getToken()) => axios.create({
 });
 
 export const serviceWithoutToken = () => axios.create({
-  baseURL:  process.env.REACT_APP_API_MAIN_SERVICE,
+  baseURL:  "https://randomuser.me/api",
   timeout: 60 * 4 * 1000,
   headers: {
     "Content-Type": `application/json`,
