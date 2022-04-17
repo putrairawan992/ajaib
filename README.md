@@ -1,23 +1,31 @@
-# Getting Started with Create React App
+# Welcome to ajaib 👋
+![Version](https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000)
+[![Twitter: HELLBOY\_putra](https://img.shields.io/twitter/follow/HELLBOY\_putra.svg?style=social)](https://twitter.com/HELLBOY\_putra)
 
-### Plugin In Project
-    - Axios
-    - Ant Desin
-    - Redux
-    - State Menagement
+### ✨ [Demo](https://main--putra-ajaib-test.netlify.app/)
 
+## Install
 
-### Before Running Project
-### `npm install`
+```sh
+npm install
+```
 
-## Available Scripts
+## Usage
 
-In the project directory, you can run:
+```sh
+npm start
+```
 
-### `npm start`
+## Run tests
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+```sh
+npm run test
+```
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Author
+
+👤 **putra irawan**
+
+* Twitter: [@HELLBOY\_putra](https://twitter.com/HELLBOY\_putra)
+* Github: [@putrairawan992](https://github.com/putrairawan992)
+* LinkedIn: [@putra irawan](https://linkedin.com/in/putra irawan)
